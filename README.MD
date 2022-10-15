@@ -13,8 +13,8 @@ e outra de redes sociais. Foi desenvolvido no evento. Ficou muito bom!
 
 ### Links
 
-- URL do Site ao vivo: []
-- URL do código no GitHub: []
+- URL do Site ao vivo: [https://vitorlopes523.github.io/projeto-mini-portifolio/]
+- URL do código no GitHub: [https://github.com/vitorlopes523/projeto-mini-portifolio]
 
 ## Meu processo
 
