@@ -35,20 +35,3 @@ function mostrarInformacoesDaAba(aba){
     informacaoASerMostrada.classList.add("selecionado")
 }
 
-//Meu código abaixo
-
-// const abaSobre = document.getElementById('sobre')
-
-// const abaRedes = document.getElementById('redes')
-
-// abaSobre.addEventListener('click', () => {
-//   let informacao = document.getElementsByTagName('div')
-//   informacao[5].classList.remove('selecionado')
-//   informacao[3].classList.add('selecionado')
-// })
-
-// abaRedes.addEventListener('click', () => {
-//   let informacao = document.getElementsByTagName('div')
-//   informacao[5].classList.add('selecionado')
-//   informacao[3].classList.remove('selecionado')
-// })
